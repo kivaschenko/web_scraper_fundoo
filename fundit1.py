@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# to contact write: teodorathome@yahoo.com
+# to contact write: civaschenko@yahoo.com
 """ 1. Get list of IT companies 
     2. name, sub industry, company type, location 
 	The first part goes previuos round and scrapes urls to pages where are the company details """
