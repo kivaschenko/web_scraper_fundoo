@@ -54,7 +54,7 @@ def get_page_data(html):
             location = ''
 
         data = {'company': company, 'sub_industry': sub_industry, 'type_company': type_company,
-                'location': location, 'url_details': url_details1}
+                'location': location, 'url_details': url_details}
         write_csv(data)
 
 
